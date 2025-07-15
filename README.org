@@ -1,0 +1,3 @@
+#+title: README
+
+This is a personal dict for Chinese input method, zrl. To add multiple pronunciations.
